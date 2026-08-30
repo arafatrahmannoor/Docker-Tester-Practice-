@@ -1,0 +1,4 @@
+FROM node
+
+ENV MONGO_DB_USERNAME=admin
+ENV MONGO_DB_PASSWORD=qwerty
